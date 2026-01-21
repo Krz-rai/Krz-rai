@@ -42,15 +42,3 @@ Currently focused on systems programming and backend architecture while continui
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-### GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krz-rai&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krz-rai&theme=graywhite&hide_border=true&layout=compact)
-
-</div>
